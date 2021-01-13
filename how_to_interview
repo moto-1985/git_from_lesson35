@@ -1,1 +1,73 @@
-<mxfile host="app.diagrams.net" modified="2021-01-13T09:20:43.774Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" version="14.1.9" etag="JXuyWgsFMtZkueDSdaRx" type="github"><diagram id="esBxd3soSbnL7nzZEz5A">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-01-13T09:41:17.246Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="nG-SQw74b3wubNZ6Ju0O" version="14.1.9" type="github">
+  <diagram id="esBxd3soSbnL7nzZEz5A" name="Page-1">
+    <mxGraphModel dx="946" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="39-OnHFhB1AliLww28J8-1" value="応募者" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="310" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="39-OnHFhB1AliLww28J8-4" value="" style="endArrow=none;html=1;" edge="1" parent="1" source="39-OnHFhB1AliLww28J8-1" target="39-OnHFhB1AliLww28J8-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="351" as="sourcePoint" />
+            <mxPoint x="310" y="337" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="39-OnHFhB1AliLww28J8-5" value="応募者申込システム" style="whiteSpace=wrap;html=1;aspect=fixed;align=center;verticalAlign=top;labelBorderColor=none;direction=south;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="331.25" y="227.5" width="197.5" height="197.5" as="geometry" />
+        </mxCell>
+        <mxCell id="39-OnHFhB1AliLww28J8-6" value="応募者入力をする" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="350" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="39-OnHFhB1AliLww28J8-7" value="NAL採用担当" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="130" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="39-OnHFhB1AliLww28J8-8" value="Gmail" style="whiteSpace=wrap;html=1;aspect=fixed;align=center;verticalAlign=top;labelBorderColor=none;direction=south;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="370" y="23.75" width="133.75" height="133.75" as="geometry" />
+        </mxCell>
+        <mxCell id="39-OnHFhB1AliLww28J8-10" value="履歴書のアドレスを確認し応募者申込リンクのついたURLを送る" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="60" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="39-OnHFhB1AliLww28J8-11" value="" style="endArrow=none;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="39-OnHFhB1AliLww28J8-7" target="39-OnHFhB1AliLww28J8-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="170" as="sourcePoint" />
+            <mxPoint x="430" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="39-OnHFhB1AliLww28J8-12" value="" style="endArrow=none;html=1;" edge="1" parent="1" source="39-OnHFhB1AliLww28J8-1" target="39-OnHFhB1AliLww28J8-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="170" as="sourcePoint" />
+            <mxPoint x="350" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="39-OnHFhB1AliLww28J8-13" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=none;gradientColor=none;opacity=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="120" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="39-OnHFhB1AliLww28J8-15" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;gradientColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="640" y="300" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="39-OnHFhB1AliLww28J8-21" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="39-OnHFhB1AliLww28J8-6" target="39-OnHFhB1AliLww28J8-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="290" as="sourcePoint" />
+            <mxPoint x="590" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="39-OnHFhB1AliLww28J8-22" value="応募者確認する" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="270" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="39-OnHFhB1AliLww28J8-24" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="39-OnHFhB1AliLww28J8-22" target="39-OnHFhB1AliLww28J8-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="310" as="sourcePoint" />
+            <mxPoint x="640" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="39-OnHFhB1AliLww28J8-25" value="" style="endArrow=none;html=1;" edge="1" parent="1" source="39-OnHFhB1AliLww28J8-22" target="39-OnHFhB1AliLww28J8-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="270" as="sourcePoint" />
+            <mxPoint x="660" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
